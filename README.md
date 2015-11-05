@@ -1,5 +1,5 @@
 Ruby - Exercice du FizzBuzz Pour Simplon.co
-
+#######################################################################
 
 Pour cet exercice, vous aurez besoin de conditions, boucles, puts et modulo (%). 
 Créez un fichier fizzbuzz.rb. À l'intérieur, écrivez un programme ayant le comportement suivant :
@@ -11,9 +11,4 @@ ceux de 3 et 5 par « Fizz Buzz »
 Résultat dans votre Terminal : 1, 2, Fizz, 4, Buzz, 6...
 
 
-# simplon
-# simplon
-# simplon
-# simplon
-# simplon
 # simplon
