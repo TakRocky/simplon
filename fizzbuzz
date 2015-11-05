@@ -1,0 +1,12 @@
+1.upto 101 do |i| 
+    if i%3 == 0  &&  i%5==0 #multiple de 3 et 5
+        print "Fizzbuzz"
+    elsif i%5 ==0 #multipe de 5
+        print "Buzz" 
+    elsif i%3 ==0 #multipe de 3
+        print "Fizz"
+    else 
+        print i 
+    end
+end
+
